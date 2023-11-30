@@ -12,7 +12,7 @@ name = "ImBadAtNaming"
 
 [params]
 author = "ImBadAtNaming"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+description = "The website of ImBadAtNaming."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
