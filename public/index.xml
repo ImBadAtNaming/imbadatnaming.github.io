@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ImBadAtNaming&#39;s Website</title>
+    <link>https://ImBadAtNaming.github.io/</link>
+    <description>ImBadAtNaming&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://ImBadAtNaming.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ImBadAtNaming.github.io/about/</link>
+      <pubDate>Wed, 29 Nov 2023 19:20:04 -0500</pubDate>
+      
+      <guid>https://ImBadAtNaming.github.io/about/</guid>
+      <description>&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;My name is ImBadAtNaming, but you might also know me as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ImBadAtNamingThings&lt;/li&gt;
+&lt;li&gt;ImBadAtUsrnmng&lt;/li&gt;
+&lt;li&gt;ImBadAtUsernaming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some people ask me: Why did you pick that name?&lt;br&gt;
+Well, the answer is simple: Just read the name!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+So, let&amp;rsquo;s start with a bit about me!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am from the United States.&lt;/li&gt;
+&lt;li&gt;I know Python, and am learning C#.&lt;/li&gt;
+&lt;li&gt;One of my dreams is to develop my own game.&lt;/li&gt;
+&lt;li&gt;Cheeseburgers are definitely my favorite food.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;
+One of my favorite games of all time is Minecraft, which I have played for nearly a decade.
+&lt;img src=&#34;https://ImBadAtNaming.github.io/MinecraftScreenshot1.png&#34; alt=&#34;A screenshot of a house I built in Minecraft&#34;&gt;
+&lt;em&gt;A house I built in Minecraft; &lt;a href=&#34;https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders&#34;&gt;Sildur&amp;rsquo;s Vibrant Shaders&lt;/a&gt; shown (I am not affiliated).&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
