@@ -39,12 +39,12 @@ GiscusCategoryId = ""  # mandatory
 GiscusLazyLoad = false  # optional
 
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
-
-[[params.social]]
 id = "github"
 url = "https://github.com/ImBadAtNaming/"
+
+[[params.social]]
+id = "youtube"
+url = "https://www.youtube.com/channel/UCy6W1hp81bSciT9WrrSn6Dw"
 
 [menu]
 
